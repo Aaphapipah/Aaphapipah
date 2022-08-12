@@ -7,3 +7,12 @@ Saya seorang **mahasiswa jurusan Sistem Informasi** di [Universitas Bina Sarana 
 Berikut ini beberapa sertifikat yang sudah saya dapatkan di dalam dunia software/development:  
 [Sertifikat Dasar Pemrograman untuk Menjadi Pengembang Software](https://github.com/Aaphapipah/Aaphapipah/files/9313360/sertifikat_course_237_2390225_100822040258.pdf)  
 [Sertifikat ke Logika Pemrograman](https://github.com/Aaphapipah/Aaphapipah/files/9313361/sertifikat_course_302_2390225_100822040529.pdf)  
+
+Jika kamu tertarik berkenalan denganku, silahkan ikuti akun [Instagram](https://www.instagram.com/aaphapipah/)
+
+<p align="left">
+<a href="https://github.com/Aaphapipah">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aaphapipah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aaphapipah&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
