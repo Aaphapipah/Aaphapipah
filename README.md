@@ -6,9 +6,11 @@ Saya seorang **mahasiswa jurusan Sistem Informasi** di [Universitas Bina Sarana 
 
 Berikut ini beberapa sertifikat yang sudah saya dapatkan di dalam dunia software/development:  
 [Sertifikat Dasar Pemrograman untuk Menjadi Pengembang Software](https://github.com/Aaphapipah/Aaphapipah/files/9313360/sertifikat_course_237_2390225_100822040258.pdf)  
-[Sertifikat ke Logika Pemrograman](https://github.com/Aaphapipah/Aaphapipah/files/9313361/sertifikat_course_302_2390225_100822040529.pdf)  
+[Sertifikat Logika Pemrograman](https://github.com/Aaphapipah/Aaphapipah/files/9313361/sertifikat_course_302_2390225_100822040529.pdf)  
+[Sertifikat Belajar Dasar GIT dengan GITHUB.pdf](https://github.com/Aaphapipah/Aaphapipah/files/9351893/Belajar.Dasar.GIT.dengan.GITHUB.pdf)
 
-Jika kamu tertarik berkenalan denganku, silahkan ikuti akun [Instagram](https://www.instagram.com/aaphapipah/)
+
+Jika kamu tertarik berkenalan denganku, silahkan ikuti akun Instagram saya [Aap Hapipah](https://www.instagram.com/aaphapipah/)
 
 <p align="left">
 <a href="https://github.com/Aaphapipah">
